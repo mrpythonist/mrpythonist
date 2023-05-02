@@ -30,7 +30,10 @@ When I'm not coding, I love playing cricket, exploring new places, binge-watchin
 - 💬 Ask me about Python, Javascript, NodeJS ,Django, ExpressJS, ReactJS, Web development, Datascience, Automation;
 - 💼 Job: Recently I have joined TurboDebt as part-time IT Specialist.
 - 📫 How to reach me: muhammadaqib5475@gmail.com;
-- 📝[Resume](https://docs.google.com/document/d/19exubhFQ6WDi98-wMNmWNZwrdRiSYnVwrp0_OPhY69s/export?format=pdf)
+- 📝[Resume](https://drive.google.com/file/d/1ukpmwvSp6G_rtBfrzph065UPo6oiIVbt/view)
+
+
+
 
 **Languages and Tools:**  
 
