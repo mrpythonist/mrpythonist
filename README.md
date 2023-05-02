@@ -1,16 +1,58 @@
-### Hi there 👋
+### Hey 👋🏽, I'm [Aqib!](https://mrpythonist.vercel.app/)
 
-<!--
-**mrpythonist/mrpythonist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://twitter.com/mrpythonist">
+  <img align="left" alt="Muhammad Aqib | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /> 
+</a>
+<a href="https://www.linkedin.com/in/mrpythonist/">
+  <img align="left" alt="Aqib's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/mrpythonist/">
+  <img align="left" alt="Aqib's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.facebook.com/mrpythonist/">
+  <img align="left" alt="Aqib's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
 
-Here are some ideas to get you started:
+<br />
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hey there, I'm Muhammad Aqib, a Full stack web developer from Pakistan with passion for web development 🚀. As a Python Developer, JavaScript Developer, and Full Stack Web Developer, I bring a unique set of skills and experience to any project. With a passion for technology and programming, I am constantly seeking to expand my knowledge and stay up-to-date with the latest developments in web development.
+
+When I'm not coding, I love playing cricket, exploring new places, binge-watching Tv Shows, and yeah, programming some more.
+
+
+
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+  
+**Talking about Personal Stuffs:**
+
+- 👨🏽‍🌱 I’m currently Exploring Backend Development; 
+- 💬 Ask me about Python, Javascript, NodeJS ,Django, ExpressJS, ReactJS, Web development, Datascience, Automation;
+- 💼 Job: Recently I have joined TurboDebt as part-time IT Specialist.
+- 📫 How to reach me: muhammadaqib5475@gmail.com;
+- 📝[Resume](https://docs.google.com/document/d/19exubhFQ6WDi98-wMNmWNZwrdRiSYnVwrp0_OPhY69s/export?format=pdf)
+
+**Languages and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://1000logos.net/wp-content/uploads/2020/09/JavaScript-Logo.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/180px-Node.js_logo.svg.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/180px-React-icon.svg.png"></code>
+<code><img height="20" src="https://1000logos.net/wp-content/uploads/2020/08/MongoDB-Emblem.jpg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/css/css.png"></code>
+<code><img height="20" src="https://cdn.worldvectorlogo.com/logos/django.svg"></code>
+<code><img height="20" src="https://static-00.iconduck.com/assets.00/nextjs-icon-512x309-yynfidez.png"></code>
+<code><img height="20" src="https://pandas.pydata.org/static/img/pandas_secondary.svg"></code>
+<code><img height="20" src="https://user-images.githubusercontent.com/50221806/86498201-a8bd8680-bd39-11ea-9d08-66b610a8dc01.png"></code>
+<code><img height="20" src="https://matplotlib.org/_static/logo2_compressed.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Selenium_Logo.png/861px-Selenium_Logo.png"></code>
+<code><img height="20" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"></code>
+<code><img height="20" src="https://logowik.com/content/uploads/images/visual-studio-code7642.jpg"></code>
+<code><img height="20" src="https://cdn.worldvectorlogo.com/logos/postman.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+
+
+⭐️ From [Muhammad Aqib](https://mrpythonist.vercel.app/)
