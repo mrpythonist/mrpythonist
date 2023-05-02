@@ -26,6 +26,7 @@ When I'm not coding, I love playing cricket, exploring new places, binge-watchin
   
 **Talking about Personal Stuffs:**
 
+- 🎓 I've Done Bachelors in Computer Science from COMSATS University Lahore.
 - 👨🏽‍🌱 I’m currently Exploring Backend Development; 
 - 💬 Ask me about Python, Javascript, NodeJS ,Django, ExpressJS, ReactJS, Web development, Datascience, Automation;
 - 💼 Job: Recently I have joined TurboDebt as part-time IT Specialist.
