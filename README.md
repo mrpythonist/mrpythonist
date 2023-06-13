@@ -16,7 +16,7 @@
 <br />
 <br />
 
-Hey there, I'm Muhammad Aqib, a Full stack web developer from Pakistan with passion for web development 🚀. As a Python Developer, JavaScript Developer, and Full Stack Web Developer, I bring a unique set of skills and experience to any project. With a passion for technology and programming, I am constantly seeking to expand my knowledge and stay up-to-date with the latest developments in web development.
+Hey there, I'm Muhammad Aqib, a Full stack web developer from Pakistan with passion for web development 🚀. As a JavaScript Developer, and Full Stack Web Developer, I bring a unique set of skills and experience to any project. With a passion for technology and programming, I am constantly seeking to expand my knowledge and stay up-to-date with the latest developments in web development.
 
 When I'm not coding, I love playing cricket, exploring new places, binge-watching Tv Shows, and yeah, programming some more.
 
@@ -28,7 +28,7 @@ When I'm not coding, I love playing cricket, exploring new places, binge-watchin
 
 - 🎓 I've Done Bachelors in Computer Science from COMSATS University Lahore.
 - 👨🏽‍🌱 I’m currently Exploring Backend Development; 
-- 💬 Ask me about Python, Javascript, NodeJS ,Django, ExpressJS, ReactJS, Web development, Datascience, Automation;
+- 💬 Ask me about  Javascript, NodeJS , ExpressJS, ReactJS, NextJS, MERN Stack, Web development, Automation;
 - 💼 Job: Recently I have joined TurboDebt as part-time IT Specialist.
 - 📫 How to reach me: muhammadaqib5475@gmail.com;
 - 📝[Resume](https://drive.google.com/file/d/1ukpmwvSp6G_rtBfrzph065UPo6oiIVbt/view)
