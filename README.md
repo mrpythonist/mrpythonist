@@ -1,62 +1,83 @@
-### Hey 👋🏽, I'm [Aqib!](https://mrpythonist.vercel.app/)
+<h1 align="center">Hey 👋🏽, I'm Aqib</h1>
+<p align="center">
+  <em>Full-Stack Developer • API Engineer • UI Perfectionist</em><br>
+  <a href="https://www.linkedin.com/in/mrpythonist/">💼 LinkedIn</a> •
+  <a href="mailto:muhammadaqib5475@gmail.com">📫 Email</a> •
+  <a href="https://www.upwork.com/freelancers/~0147fe796d3aa5f35e">🟢 Upwork</a>
+</p>
 
-<a href="https://twitter.com/mrpythonist">
-  <img align="left" alt="Muhammad Aqib | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /> 
-</a>
-<a href="https://www.linkedin.com/in/mrpythonist/">
-  <img align="left" alt="Aqib's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/mrpythonist/">
-  <img align="left" alt="Aqib's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/mrpythonist/">
-  <img align="left" alt="Aqib's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
+---
 
-<br />
-<br />
+### 🧑‍💻 About Me
 
-Hey there, I'm Muhammad Aqib, a Full stack web developer from Pakistan with passion for web development 🚀. As a JavaScript Developer, and Full Stack Web Developer, I bring a unique set of skills and experience to any project. With a passion for technology and programming, I am constantly seeking to expand my knowledge and stay up-to-date with the latest developments in web development.
+Hi, I’m **Muhammad Aqib**, a full-stack web developer with 3+ years of professional experience building production-ready applications using **Next.js, Laravel, Node.js, React, and MongoDB**. I specialize in creating fast, scalable, and secure digital solutions for startups and small businesses.
 
-When I'm not coding, I love playing cricket, exploring new places, binge-watching Tv Shows, and yeah, programming some more.
+🎓 **B.S. in Computer Science** from COMSATS University, Lahore  
+🏢 **Software Engineer at TurboDebt** (Full-time)  
+💡 Worked across **fintech**, **e-commerce**, **education**, and **healthcare** domains  
+⚡ Passionate about clean code, solving real-world problems, and rapid prototyping
 
+---
 
+### 🚀 Tech Stack
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
-  
-**Talking about Personal Stuffs:**
+**Languages**  
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) 
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript)
+![PHP](https://img.shields.io/badge/-PHP-8892BF?style=flat-square&logo=php)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
 
-- 🎓 I've Done Bachelors in Computer Science from COMSATS University Lahore.
-- 👨🏽‍🌱 I’m currently Exploring Backend Development; 
-- 💬 Ask me about  Javascript, NodeJS , ExpressJS, ReactJS, NextJS, MERN Stack, Web development, Automation;
-- 💼 Job: Recently I have joined TurboDebt as part-time IT Specialist.
-- 📫 How to reach me: muhammadaqib5475@gmail.com;
-- 📝[Resume](https://drive.google.com/file/d/1ukpmwvSp6G_rtBfrzph065UPo6oiIVbt/view)
+**Frontend**  
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![Material UI](https://img.shields.io/badge/-MUI-007FFF?style=flat-square&logo=mui)
 
+**Backend & API**  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)
+![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django)
 
+**Databases**  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-005C84?style=flat-square&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis)
 
+**DevOps & Tools**  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=flat-square&logo=gitlab)
 
-**Languages and Tools:**  
+---
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://1000logos.net/wp-content/uploads/2020/09/JavaScript-Logo.png"></code>
-<code><img height="20" src="https://nodejs.org/static/images/logo-hexagon-card.png"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/180px-React-icon.svg.png"></code>
-<code><img height="20" src="https://1000logos.net/wp-content/uploads/2020/08/MongoDB-Emblem.jpg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/css/css.png"></code>
-<code><img height="20" src="https://cdn.worldvectorlogo.com/logos/django.svg"></code>
-<code><img height="20" src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png"></code>
-<code><img height="20" src="https://deephaven.io/assets/images/py_pandas_logo-1d2d1de1eb9ca6eebd8464c4f703f5d9.png"></code>
-<code><img height="20" src="https://user-images.githubusercontent.com/50221806/86498201-a8bd8680-bd39-11ea-9d08-66b610a8dc01.png"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/2048px-Created_with_Matplotlib-logo.svg.png"></code>
-<code><img height="20" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-development-mysql-logo-code-icon-9.png"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Selenium_Logo.png/861px-Selenium_Logo.png"></code>
-<code><img height="20" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"></code>
-<code><img height="20" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"></code>
-<code><img height="20" src="https://logowik.com/content/uploads/images/visual-studio-code7642.jpg"></code>
-<code><img height="20" src="https://cdn.worldvectorlogo.com/logos/postman.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+### 🛠 Featured Projects
 
+- 🧾 [DebtSolutionAmerica.com](https://debtsolutionamerica.com)  
+  Static marketing site built in **Next.js** from Figma design, deployed on **Vercel**, SEO optimized and fully responsive.
 
-⭐️ From [Muhammad Aqib](https://mrpythonist.vercel.app/)
+- ⏱ **Telegram Attendance Bot**  
+  Custom bot built with **Node.js**, **Express**, and **MongoDB**. React dashboard allows real-time check-ins and logs for remote teams.
+
+- 🔒 **Laravel API Platform**  
+  A robust RESTful API system featuring auth tokens, Redis caching, role-based permissions, and MySQL DB for client dashboards.
+
+---
+
+### 🤝 Let’s Collaborate
+
+✅ Ideal for **startups**, **agencies**, and **SaaS founders**  
+🛠 Open to **short-term projects**, **feature builds**, and **API integrations**  
+🎯 Let’s bring your product to life — from idea to scalable full-stack solution
+
+---
+
+📫 Reach me at: [muhammadaqib5475@gmail.com](mailto:muhammadaqib5475@gmail.com)  
+🌟 Upwork Profile: [upwork.com/freelancers/~0147fe796d3aa5f35e](https://www.upwork.com/freelancers/~0147fe796d3aa5f35e)
+
+---
+
+⭐️ From [Aqib](https://github.com/mrpythonist)
