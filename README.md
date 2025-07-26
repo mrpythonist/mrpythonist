@@ -7,13 +7,8 @@
   </a>
   &nbsp;
   &nbsp;
-  <a href="https://www.linkedin.com/in/your-username" target="_blank">
+  <a href="https://www.linkedin.com/in/mrpythonist" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30"/>
-  </a>
-  &nbsp;
-  &nbsp;
-  <a href="https://turbodebt.com" target="_blank">
-    <img src="https://www.turbodebt.com/turbobunny.png" alt="TurboDebt" height="30"/>
   </a>
 </p>
 
@@ -54,8 +49,7 @@
 ### 📫 Let's Connect
 
 - 🟢 [Upwork](https://www.upwork.com/freelancers/~0147fe796d3aa5f35e)
-- 🔵 [LinkedIn](https://www.linkedin.com/in/your-username)
-- 🧭 [TurboDebt](https://turbodebt.com)
+- 🔵 [LinkedIn](https://www.linkedin.com/in/mrpythonist)
 
 ---
 
