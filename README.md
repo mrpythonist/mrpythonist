@@ -1,9 +1,10 @@
 <h1 align="center">Hey 👋🏽, I'm Aqib</h1>
 <p align="center">
-  <em>Full-Stack Developer • API Engineer • UI Perfectionist</em><br>
-  <a href="https://www.linkedin.com/in/mrpythonist/" target="_blank">💼 LinkedIn</a> •
-  <a href="mailto:muhammadaqib5475@gmail.com" target="_blank">📫 Email</a> •
-  <a href="https://www.upwork.com/freelancers/~0147fe796d3aa5f35e" target="_blank">🟢 Upwork</a>
+  <em>Full-Stack Developer</em><br>
+  <a href="mailto:muhammadaqib5475@gmail.com" target="_blank">Email</a> •
+  <a href="https://www.linkedin.com/in/mrpythonist/" target="_blank">LinkedIn</a> •
+  <a href="https://mrpythonist.github.io/" target="_blank">Website</a> •
+  <a href="https://www.upwork.com/freelancers/~0147fe796d3aa5f35e" target="_blank">Upwork</a>
 </p>
 
 ---
