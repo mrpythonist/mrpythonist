@@ -80,7 +80,7 @@ $ ./status.sh
 
 ---
 
-### 🚀 Featured build
+### 🚀 Featured builds
 
 #### 🍔 Food Delivery System — *in progress*
 
@@ -97,6 +97,20 @@ A backend-heavy platform built to prove real engineering, not just screens: secu
 - **Backend:** Laravel, PostgreSQL, Redis, Laravel Sanctum, Spatie Permission, Laravel Reverb, Laravel Horizon, PHPUnit
 - **Admin:** React (Vite, Material UI)
 - **Customer app:** React Native (Expo, TypeScript, Expo Router, NativeWind, Zustand, TanStack Query)
+
+#### 📡 [Log Anomaly Watcher](https://github.com/mrpythonist/log-anomaly-watcher)
+
+A log-ingestion service for small teams that can't justify a Sentry/Datadog budget yet: send it logs over HTTP and it surfaces what matters — errors suddenly spiking, or brand-new errors appearing for the first time — with transparent rules you can read and tune. No black-box model, no vendor lock-in.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+</p>
+
+- **Engineering:** log fingerprinting (normalization + hashing, scoped per service); detection as a pure function of stored events — unit-tested without a database, in-memory store for dev/tests
 
 ---
 
