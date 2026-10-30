@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mrpythonist/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://mrpythonist.vercel.app"><img src="https://img.shields.io/badge/Portfolio-mrpythonist.vercel.app-0d1117?style=flat-square&logo=vercel&logoColor=FACC15" alt="Portfolio" /></a>
+  <a href="https://mrpythonist.com"><img src="https://img.shields.io/badge/Portfolio-mrpythonist.com-0d1117?style=flat-square&logoColor=FACC15" alt="Portfolio" /></a>
   <a href="https://github.com/mrpythonist"><img src="https://img.shields.io/badge/GitHub-mrpythonist-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="mailto:muhammadaqib5475@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_touch-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
@@ -75,7 +75,7 @@ $ ./status.sh
 
 | Role | Period | What I worked on |
 | :--- | :--- | :--- |
-| **Software Engineer — TurboDebt** | Mar 2023 – Oct 2026 | Production Laravel / PHP systems processing leads from multiple media partners. PostgreSQL on AWS RDS, Redis and queues, Ubuntu EC2 + nginx, Docker dev environments. Salesforce integrations, lead ingestion via TrustedForm and Jornaya, and workflows with Iterable, Ytel and Apten. Production debugging, stability and performance work, and CI/CD pipelines — reducing deployment time by **60%**. |
+| **Software Engineer — TurboDebt** | Mar 2023 – Oct 2026 | Production Laravel / PHP systems processing leads from multiple media partners. PostgreSQL on AWS RDS, Redis and queues, Ubuntu EC2 + nginx, Docker dev environments. Salesforce integrations, lead ingestion via TrustedForm and Jornaya, and workflows with Iterable, Ytel and Apten. Production debugging, stability and performance work; used Docker and GitLab CI/CD to streamline development and deployment workflows. |
 | 🏆 **Award of Excellence** | — | Presented by Operations Manager Amir Hussain. |
 
 ---
@@ -127,7 +127,7 @@ Plus: stronger system design and fundamentals, and meaningful open-source contri
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mrpythonist/"><img src="https://img.shields.io/badge/LinkedIn-mrpythonist-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
-  <a href="https://mrpythonist.vercel.app"><img src="https://img.shields.io/badge/Portfolio-mrpythonist.vercel.app-0d1117?style=for-the-badge&logo=vercel&logoColor=FACC15" alt="Portfolio" /></a>
+  <a href="https://mrpythonist.com"><img src="https://img.shields.io/badge/Portfolio-mrpythonist.com-0d1117?style=for-the-badge&logoColor=FACC15" alt="Portfolio" /></a>
   <a href="mailto:muhammadaqib5475@gmail.com"><img src="https://img.shields.io/badge/Email-muhammadaqib5475@gmail.com-EA4335?style=for-the-badge&logo=gmail" alt="Email" /></a>
 </p>
 
