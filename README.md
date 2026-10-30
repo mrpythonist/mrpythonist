@@ -112,6 +112,19 @@ A log-ingestion service for small teams that can't justify a Sentry/Datadog budg
 
 - **Engineering:** log fingerprinting (normalization + hashing, scoped per service); detection as a pure function of stored events — unit-tested without a database, in-memory store for dev/tests
 
+#### 🌐 [mrpythonist.com](https://github.com/mrpythonist/mrpythonist.com) — *live*
+
+My personal portfolio site, running in production: hand-built with PHP, semantic HTML and vanilla CSS/JS — no frameworks, no build step, no database. SEO-structured with sitemap, Open Graph and JSON-LD, verified in Google Search Console.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+</p>
+
+- **Engineering:** clean URLs via .htaccess, hardened contact form (CSRF, honeypot, rate limiting), deployed on LiteSpeed shared hosting
+
 ---
 
 ### 🌱 Right now
